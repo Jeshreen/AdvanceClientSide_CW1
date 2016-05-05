@@ -1,3 +1,3 @@
 # AdvanceClientSide_CW1
 
-This project is done using the JQuery UI plugins. a basic site with a home page, about me page, registration form and a blog page.
+A project that has been develped only using JQuery UI widgets and other hover effect.
